@@ -102,6 +102,7 @@ void GraphMST:KruskalMST(){
 void GraphMST::AddEdge(int from, int to, char weight){
     AdjMatrix[from][to] = AdjMatrix[from][to];
 }
+//hgkghjgjghgj
 
 int main(){
 
